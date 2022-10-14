@@ -1,8 +1,6 @@
 name: YTAnalysis
 channels:
-  - conda-forge
   - defaults
-  - conda-forge/label/broken
 dependencies:
   - anyio=3.5.0=py39haa95532_0
   - argon2-cffi=21.3.0=pyhd3eb1b0_0
