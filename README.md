@@ -2,8 +2,9 @@
 ## Capstone Project
 This is my first attempt at a machine-learning project. The idea was to create a service to identify toxic comments on YouTube channels.
 ### Requirements 
-* Python 3.9 or later.<br/><br/>
-The following dependencies can be installed by running the dependencies.ipynb file:
+* Python 3.9 or later.<br/>
+##### The following dependencies can be installed by running the _dependencies.ipynb_ file:
+  
 * pandas
 * numba 
 * pickle
