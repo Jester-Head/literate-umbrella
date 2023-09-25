@@ -1,4 +1,7 @@
 # literate-umbrella
+🚨 Note to Visitors 🚨
+
+Thank you for visiting my repository. I've recently identified some discrepancies in the information provided here. I'm committed to ensuring accuracy and quality in my work, and I am currently in the process of updating and correcting these details.
 ## Capstone Project
 This is my first attempt at a machine-learning project. The idea was to create a service to identify toxic comments on YouTube channels.
 ### Requirements 
