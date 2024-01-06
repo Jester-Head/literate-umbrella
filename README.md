@@ -1,7 +1,7 @@
 # literate-umbrella
 🚨 Note to Visitors 🚨
 
-Thank you for visiting my repository. I've recently identified some discrepancies in the information provided here. I'm committed to ensuring accuracy and quality in my work, and I am currently in the process of updating and correcting these details.
+Thank you for visiting my repository. I've recently identified some discrepancies in the information provided here. I'm committed to ensuring accuracy and quality in my work. I am working on another project but plan to update and correct these issues.
 ## Capstone Project
 This is my first attempt at a machine-learning project. The idea was to create a service to identify toxic comments on YouTube channels.
 ### Requirements 
@@ -14,7 +14,7 @@ This is my first attempt at a machine-learning project. The idea was to create a
 * numpy
 * matplotlib
 * seaborn
-* wordcloud
+* word cloud
 * ipywidgets
 * nltk
 * sklearn
